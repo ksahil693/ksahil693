@@ -69,13 +69,6 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksahil693&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksahil693&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahil693&layout=compact&theme=radical)
 
 ## Tech Stack
 
