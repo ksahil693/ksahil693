@@ -1,3 +1,5 @@
+Here is your updated README file with GitHub stats:
+
 ---
 
 # Welcome to My Personal Repository 🎉
@@ -61,5 +63,10 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
   - Developed a full-stack responsive job board website using Express.js, React.js, Node.js, and MySQL.
   - Automated the collection of internship opportunities through expert web scraping using Selenium.
   - Managed a MySQL database for a website, demonstrating strong database integration skills.
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksahil693&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
