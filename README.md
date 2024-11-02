@@ -1,5 +1,3 @@
-Here is the updated README file content with emojis and placeholders for images:
-
 ---
 
 # Welcome to My Personal Repository 🎉
