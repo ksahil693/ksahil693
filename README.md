@@ -7,12 +7,6 @@ Here is your updated README file with GitHub stats:
 ## About Me 👨‍🎓
 I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanasi. I have a strong foundation in programming and software development, with a keen interest in Data Structures, Algorithms, and Competitive Programming.
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksahil693&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ## Tech Stack
 
 ![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=appveyor)
@@ -24,6 +18,12 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksahil693&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksahil693&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Skills 💻
@@ -49,23 +49,6 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
   *December 2022 - January 2023*  
   - Developed a high-performance Node.js web scraper, integrated with MongoDB for e-commerce websites.
   - Reduced scraping time by 50 times using Node.js clustering and anti-bot detection evasion techniques.
-
-## Projects 🚀
-- **Brick & Click | Real Estate Platform**  
-  - Developed a MERN stack real estate platform with Prisma ORM, optimizing database operations and scalability.
-  - Implemented JWT and cookie-based authentication, enhancing security and enabling persistent user sessions.
-  - Integrated Socket.io for real-time chat, facilitating client communication and accelerating deal closures.
-  - Developed a streamlined booking system using React Router and Context API, increasing conversion rates.
-
-- **Flash Chat | Real Time Chat App**  
-  - Developed a real-time chat web application using React.js and Firebase.
-  - Implemented secure user login and registration through seamless integration of Firebase authentication services.
-  - Utilized Firebase's real-time database for instant messaging and seamless chat synchronization.
-
-- **QuicSort | Job Board Platform**  
-  - Developed a full-stack responsive job board website using Express.js, React.js, Node.js, and MySQL.
-  - Automated the collection of internship opportunities through expert web scraping using Selenium.
-  - Managed a MySQL database for a website, demonstrating strong database integration skills.
 
 
 ---
