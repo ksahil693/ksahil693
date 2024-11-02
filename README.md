@@ -63,7 +63,3 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
   - Managed a MySQL database for a website, demonstrating strong database integration skills.
 
 ---
-
-Feel free to add images to the relevant sections by uploading them to your repository and using the following markdown format to include them:
-
-```
