@@ -1,13 +1,13 @@
-Here is the updated content for your README file based on the provided information:
+Here is the updated README file content with emojis and placeholders for images:
 
 ---
 
-# Welcome to My Personal Repository
+# Welcome to My Personal Repository 🎉
 
-## About Me
+## About Me 👨‍🎓
 I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanasi. I have a strong foundation in programming and software development, with a keen interest in Data Structures, Algorithms, and Competitive Programming.
 
-## Education
+## Education 🎓
 - **IDD Bio-Chemical Engineering**  
   *IIT (BHU), Varanasi*  
   **CGPA:** 8.72  
@@ -23,14 +23,14 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
   **Percentage:** 87.00%  
   **Year:** 2018
 
-## Skills
+## Skills 💻
 - **Programming Languages:** C, C++, JavaScript, Dart, Python, SQL
 - **Frameworks/Tools:** MERN Stack, Bootstrap, Tailwind, FastAPI, Docker, Flutter, GitHub
 - **Areas of Interest:** Data Structures and Algorithms, Competitive Programming, Software Development
 
-## Internship/Training
+## Internship/Training 💼
 - **Full Stack Developer Intern** | FullCircle AI  
-  *May 2024 - July 2024*  
+  *May 2024 - Present*  
   - Explored frontiers of AI-software fusion.
   - Developed and deployed a proprietary AI framework automating 12 apps with 40+ API calls using FastAPI microservice in Docker and deployed on DigitalOcean with OAuth integration.
   - Built a platform-agnostic Chrome extension with proactive task detection using DOM analysis and Webhooks.
@@ -47,7 +47,7 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
   - Developed a high-performance Node.js web scraper, integrated with MongoDB for e-commerce websites.
   - Reduced scraping time by 50 times using Node.js clustering and anti-bot detection evasion techniques.
 
-## Projects
+## Projects 🚀
 - **Brick & Click | Real Estate Platform**  
   - Developed a MERN stack real estate platform with Prisma ORM, optimizing database operations and scalability.
   - Implemented JWT and cookie-based authentication, enhancing security and enabling persistent user sessions.
@@ -66,4 +66,6 @@ I am currently pursuing an IDD in Bio-Chemical Engineering at IIT (BHU), Varanas
 
 ---
 
-You can paste this content into your README.md file. If you need any further adjustments, let me know!
+Feel free to add images to the relevant sections by uploading them to your repository and using the following markdown format to include them:
+
+```
