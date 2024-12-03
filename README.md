@@ -1,4 +1,3 @@
-Here is your updated README file with GitHub stats:
 
 ---
 
